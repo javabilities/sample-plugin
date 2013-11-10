@@ -1,1 +1,17 @@
-target/
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+
+# "temporary" build files
+/target
+
+# other
+.idea
+*.iws
+*.iml
